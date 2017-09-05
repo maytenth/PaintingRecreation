@@ -1,0 +1,17 @@
+.box {
+    min-height: 240px;
+width: 100%;    
+}
+
+.white {
+    background-color: #46D451;
+    
+}
+
+.dark_blue {
+    background-color: #AFED2A;
+}
+
+.green {
+    background-color: #F2EF37
+}
